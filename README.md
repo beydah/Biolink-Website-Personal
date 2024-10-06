@@ -2,7 +2,7 @@
 
 <div style="text-align:center;">
     <a href="#biolink-website-for-personal-use">
-        <img src="https://raw.githubusercontent.com/beydah/asset/main/banner/time-sync-bot-upper.png" alt="Banner">
+        <img src="https://raw.githubusercontent.com/beydah/asset/main/banner/biolink-website-personal-upper" alt="Banner">
     </a>
 </div>
 
